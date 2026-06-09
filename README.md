@@ -33,7 +33,7 @@
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![ArgoCD] (https://img.shields.io/badge/Argo-CD)
+![ArgoCD](https://img.shields.io/badge/Argo%20CD-FF7A00?style=for-the-badge&logo=argocd&logoColor=white)
 
 
 ### 🖥️ Languages & Scripting
