@@ -33,6 +33,7 @@
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![ArgoCD]
 
 
 ### 🖥️ Languages & Scripting
@@ -43,16 +44,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 📡 [site24x7 RAG Chatbot](https://github.com/jagan1508/site24x7_API_Chatbot_Using_RAG) | Conversational interface over a monitoring platform API | Python · RAG |
-| 🗄️ [SQL Agent](https://github.com/jagan1508/Sql-Agent) | Chat with your database in natural language | Python · MySQL · LLM |
-| 📰 [rss](https://github.com/jagan1508/rss) | Lightweight RSS aggregator | Go |
-| ⚡ [ozy-cli](https://github.com/jagan1508/ozy-cli) | Fast CLI tooling | Go |
-
----
 
 ### 📈 GitHub Stats
 
